@@ -24,6 +24,7 @@ To optimize the run-time, parallelization was implemented as can be seen in the 
 
 <p align="center">
  <img  width="350" alt="Screenshot 2024-01-25 at 8 37 56 AM" src="https://github.com/guptaru1/StockPrediction/assets/50961619/ffc507ef-742d-4eff-8ae1-9b7005d684f3">
-  <img align="center" left = "100px" width="465" alt="Screenshot 2024-01-25 at 8 40 31 AM" src="https://github.com/guptaru1/StockPrediction/assets/50961619/7b846a6c-6904-4d12-8405-4ae7be0d730d">
 </p>
 
+</br>
+<img align="center" left = "100px" width="465" alt="Screenshot 2024-01-25 at 8 40 31 AM" src="https://github.com/guptaru1/StockPrediction/assets/50961619/7b846a6c-6904-4d12-8405-4ae7be0d730d">
